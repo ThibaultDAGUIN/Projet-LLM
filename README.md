@@ -1,8 +1,8 @@
 # Clone du repository Github
-git clone https://github.com/julietterssgnl/RAG-IUT.git
+git clone https://github.com/ThibaultDAGUIN/Projet-LLM.git
 
 # Se positionner dans le projet
-cd .\RAG-IUT\ 
+cd .\Projet-LLM\ 
 
 # Environnement
 python -m venv .venv
